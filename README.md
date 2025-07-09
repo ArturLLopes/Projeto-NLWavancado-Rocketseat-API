@@ -12,3 +12,23 @@ dependencia biome para padronizar o projeto
 
 npm i @biomejs/biome -D
 npx ultracite init
+
+docker
+docker compose up -d
+docker ps
+
+banco de dados
+npm i postgres
+
+orm - banco de dados
+npm i drizzle-orm
+===CLI
+npm i drizzle-kit -D 
+-gerar tabela
+npx drizzle-kit generate
+-criar
+npx drizzle-kit migrate 
+npx drizzle-kit studio
+
+seed - db
+npm i drizzle-seed -D
