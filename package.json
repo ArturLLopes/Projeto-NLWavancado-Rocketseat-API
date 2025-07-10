@@ -1,7 +1,7 @@
 {
   "name": "avancado",
   "version": "1.0.0",
-  "description": "",
+  "description": "npm init -y\r npm i typescript @types/node -D",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -22,7 +22,7 @@
   "homepage": "https://github.com/ArturLLopes/Projeto-NLWavancado-Rocketseat#readme",
   "devDependencies": {
     "@biomejs/biome": "2.0.6",
-    "@types/node": "^24.0.11",
+    "@types/node": "^24.0.12",
     "drizzle-kit": "^0.31.4",
     "drizzle-seed": "^0.3.1",
     "typescript": "^5.8.3",
